@@ -45,4 +45,5 @@ company.addEventListener("click", function () {
 mobilemenu.addEventListener("click", function () {
   mobilemenu.classList.toggle("active");
   mobileNav.classList.toggle("active");
+  document.querySelector("main").classList.toggle("overlay");
 });
