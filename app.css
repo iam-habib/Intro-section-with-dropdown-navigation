@@ -442,7 +442,7 @@ article .l-more:hover {
     position: absolute;
     top: 0;
     right: 0;
-    width: 50%;
+    width: 70%;
     height: 100vh;
     background-color: #fff;
     transform: translateX(100%);
